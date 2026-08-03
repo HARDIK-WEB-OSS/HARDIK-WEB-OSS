@@ -1,0 +1,39 @@
+<svg width="720" height="220" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=JetBrains+Mono&amp;display=swap');
+      .grid-title { font-family: 'Orbitron', 'Consolas', monospace; }
+      .grid-mono  { font-family: 'JetBrains Mono', 'Consolas', monospace; }
+    </style>
+    <linearGradient id="gridBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#15151E"/>
+      <stop offset="100%" stop-color="#1c1c26"/>
+    </linearGradient>
+    <pattern id="checker" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#E10600"/>
+      <rect x="8" y="8" width="8" height="8" fill="#E10600"/>
+      <rect x="8" width="8" height="8" fill="#15151E"/>
+      <rect y="8" width="8" height="8" fill="#15151E"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="220" rx="10" fill="url(#gridBg)" stroke="#E10600" stroke-width="2"/>
+  <rect x="0" y="0" width="720" height="14" fill="url(#checker)"/>
+  <rect x="0" y="206" width="720" height="14" fill="url(#checker)"/>
+
+  <text x="30" y="48" class="grid-title" font-size="22" font-weight="700" fill="#E10600">CAR #19</text>
+  <text x="690" y="48" class="grid-mono" font-size="14" text-anchor="end" fill="#3ddc84">● FOCUSING</text>
+  <line x1="30" y1="60" x2="690" y2="60" stroke="#2a2a35" stroke-width="1"/>
+
+  <text x="30" y="92" class="grid-mono" font-size="14" fill="#8a8a99">DRIVER</text>
+  <text x="220" y="92" class="grid-mono" font-size="14" fill="#ffffff">Hardik Agarwal</text>
+
+  <text x="30" y="122" class="grid-mono" font-size="14" fill="#8a8a99">TEAM</text>
+  <text x="220" y="122" class="grid-mono" font-size="14" fill="#ffffff">Backend Systems / AI &amp; Agentic Engineering</text>
+
+  <text x="30" y="152" class="grid-mono" font-size="14" fill="#8a8a99">SPECIALTY</text>
+  <text x="220" y="152" class="grid-mono" font-size="14" fill="#ffffff">Reliability engineering under regulatory load</text>
+
+  <text x="30" y="182" class="grid-mono" font-size="14" fill="#8a8a99">STATUS</text>
+  <text x="220" y="182" class="grid-mono" font-size="14" fill="#3ddc84">🟢 Actively engineering, open to offers</text>
+</svg>
