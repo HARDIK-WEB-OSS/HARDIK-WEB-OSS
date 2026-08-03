@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:15151E&height=220&section=header&text=HARDIK%20AGARWAL&fontSize=55&fontColor=ffffff&fontFamily=Orbitron&animation=fadeIn&fontAlignY=38&desc=Engineering%20at%20Race%20Pace&descAlignY=58&descColor=E10600" width="100%"/>
 
 <a href="https://github.com/HARDIK-WEB-OSS">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=26&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=650&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO;Backend+Engineer+%7C+AI%2FML+%2B+Agentic+Systems;Building+Reliable+Systems+Under+Race-Day+Pressure;Every+Commit+is+a+Pit+Stop+Toward+P1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=650&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO;Backend+Engineer+%7C+AI%2FML+%2B+Agentic+Systems;Building+Reliable+Systems+Under+Race-Day+Pressure;Every+Commit+is+a+Pit+Stop+Toward+P1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,12 +20,14 @@
 ## 🏁 STARTING GRID
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/starting-grid.svg" width="720"/>
-</div>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/team-statement.svg" width="720"/>
 
 </div>
-
-I engineer systems the way race teams engineer cars — every part earns its place under pressure. My track record: reconciliation engines that catch every discrepancy, regulatory pipelines that survive audits, and ML models tuned for the metric that actually matters, not the one that looks good on paper.
 
 <br/>
 
