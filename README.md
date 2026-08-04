@@ -19,13 +19,48 @@
 
 ## 🏁 STARTING GRID
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CURRENT STATUS
+
+<table>
+<tr><td><sub>ROLE FOCUS</sub></td><td align="right"><b>Fintech / Data Eng</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>SPECIALTY</sub></td><td align="right"><b>Reliability Engineering</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>ENVIRONMENT</sub></td><td align="right"><b>WSL / Linux</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>AVAILABILITY</sub></td><td align="right"><b>🟢 Open to Offers</b></td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### CAREER STATS
+
+<table>
+<tr><td><sub>DEPLOYED PROJECTS</sub></td><td align="right"><b>6</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>CODEFORCES RATING</sub></td><td align="right"><b>1289</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>OSS CONTRIBUTIONS</sub></td><td align="right"><b>1 merged (Airflow)</b></td></tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr><td><sub>CERTIFICATIONS</sub></td><td align="right"><b>1 (OCI 2025)</b></td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/starting-grid.svg" width="720"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/team-statement.svg" width="720"/>
+> *"I engineer systems the way race teams engineer cars — every part earns its place under pressure. My track record: reconciliation engines that catch every discrepancy, regulatory pipelines that survive audits, and ML models tuned for the metric that actually matters, not the one that looks good on paper."*
 
 </div>
 
@@ -136,11 +171,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HARDIK-WEB-OSS&show_icons=true&theme=dark&hide_border=true&bg_color=15151E&title_color=E10600&icon_color=E10600&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARDIK-WEB-OSS&layout=compact&theme=dark&hide_border=true&bg_color=15151E&title_color=E10600&text_color=ffffff" width="30%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=HARDIK-WEB-OSS&theme=dark&hide_border=true&background=15151E&ring=E10600&fire=E10600&currStreakLabel=E10600" width="60%"/>
 
 <br/><br/>
@@ -154,7 +184,7 @@
 ## 🏎️ ON TRACK — Commit Pit Stops
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/output/dist/racetrack-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/racetrack-dark.svg" width="100%"/>
 </div>
 
 <!--PITSTOP:START-->

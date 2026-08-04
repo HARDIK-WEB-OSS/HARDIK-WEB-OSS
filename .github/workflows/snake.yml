@@ -8,27 +8,23 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: platane/snk@v3
         id: racetrack
         with:
           github_user_name: HARDIK-WEB-OSS
           outputs: |
-            dist/racetrack-dark.svg?palette=github-dark&color_snake=#E10600&color_dots=15151e,1c1c26,2a2a35,3d3d4a,E10600
+            assets/racetrack-dark.svg?palette=github-dark&color_snake=%23FF2800&color_dots=15151e,1c1c26,2a2a35,3d3d4a,FF2800
 
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-      - run: |
-          mkdir -p dist
-          cp -r ${{ steps.racetrack.outputs.dist }}/* dist/
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: output
-          commit_message: update racetrack graph
-          file_pattern: dist/*.svg
+          commit_message: "🏁 update racetrack graph"
+          file_pattern: assets/racetrack-dark.svg
