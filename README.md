@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/header-banner-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/header" width="100%"/>
 
 <a href="https://github.com/HARDIK-WEB-OSS">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=650&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO;Backend+Engineer+%7C+AI%2FML+%2B+Agentic+Systems;Building+Reliable+Systems+Under+Race-Day+Pressure;Every+Commit+is+a+Pit+Stop+Toward+P1" alt="Typing SVG" />
