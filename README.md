@@ -6,62 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=650&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO;Backend+Engineer+%7C+AI%2FML+%2B+Agentic+Systems;Building+Reliable+Systems+Under+Race-Day+Pressure;Every+Commit+is+a+Pit+Stop+Toward+P1" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/hardik-agarwal-578238333/)
-[![X](https://img.shields.io/badge/-X-15151E?style=for-the-badge&logo=x&logoColor=E10600)](https://x.com/HARDY1860678)
-[![Email](https://img.shields.io/badge/-Email-15151E?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:agarwalhardik549@gmail.com)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-15151E?style=for-the-badge&logo=codeforces&logoColor=E10600)](https://codeforces.com/profile/HARDIK-WEB-OSS)
-
-</div>
-
-<br/>
-
-## 🏁 STARTING GRID
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### CURRENT STATUS
-
-<table>
-<tr><td><sub>ROLE FOCUS</sub></td><td align="right"><b>Fintech / Data Eng</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>SPECIALTY</sub></td><td align="right"><b>Reliability Engineering</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>ENVIRONMENT</sub></td><td align="right"><b>WSL / Linux</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>AVAILABILITY</sub></td><td align="right"><b>🟢 Open to Offers</b></td></tr>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-### CAREER STATS
-
-<table>
-<tr><td><sub>DEPLOYED PROJECTS</sub></td><td align="right"><b>6</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>CODEFORCES RATING</sub></td><td align="right"><b>1289</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>OSS CONTRIBUTIONS</sub></td><td align="right"><b>1 merged (Airflow)</b></td></tr>
-<tr><td colspan="2"><hr/></td></tr>
-<tr><td><sub>CERTIFICATIONS</sub></td><td align="right"><b>1 (OCI 2025)</b></td></tr>
-</table>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
 
 <div align="center">
-
-> *"I engineer systems the way race teams engineer cars — every part earns its place under pressure. My track record: reconciliation engines that catch every discrepancy, regulatory pipelines that survive audits, and ML models tuned for the metric that actually matters, not the one that looks good on paper."*
-
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/driver-card-dark.svg" width="100%"/>
 </div>
 
 <br/>
@@ -94,59 +44,11 @@
 
 <br/>
 
-## 🏆 RACE RESULTS — Featured Projects
+## 🏆 RACE RESULTS
 
-<table>
-<tr>
-<th>🏁 Podium</th>
-<th>Project</th>
-<th>Result</th>
-<th>Stack</th>
-</tr>
-
-<tr>
-<td>🔁</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/DSA"><b>DSA — Daily Grind</b></a></td>
-<td>61+ commits and climbing, daily laps — LeetCode solutions with test-verified time & space complexity</td>
-<td>C++ · Java</td>
-</tr>
-
-<tr>
-<td>🥇</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/lexagent"><b>Lex Agent</b></a></td>
-<td>6-agent pipeline, 35 unit tests, percentile-based risk scoring — zero external API dependencies for air-gapped deployment</td>
-<td>Python · FastAPI · NetworkX</td>
-</tr>
-
-<tr>
-<td>🥈</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/settlement-pof-engine"><b>Settlement PoF Engine</b></a></td>
-<td>89% workload cut on settlement-risk triage, 0.833 ROC-AUC, live SHAP-explained scoring API + dashboard</td>
-<td>Python · XGBoost · FastAPI · SHAP</td>
-</tr>
-
-<tr>
-<td>🥉</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/reg-reporting-pipeline"><b>MiFID II / SEC CAT Reporting Pipeline</b></a></td>
-<td>50K records reengineered, 88.91% validation rate, hash-chained tamper-evident audit log at 100% integrity</td>
-<td>Python · Airflow · Great Expectations</td>
-</tr>
-
-<tr>
-<td>🏎️</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/trade-reconciliation-engine"><b>Trade Reconciliation & Break Detection Engine</b></a></td>
-<td>100% break-detection accuracy across 600 simulated trades via dual independent reconciliation engines</td>
-<td>Java · Maven · SQL (H2) · JUnit 5</td>
-</tr>
-
-<tr>
-<td>🔧</td>
-<td><a href="https://github.com/HARDIK-WEB-OSS/codebase-agent"><b>Codebase Onboarding Agent</b></a></td>
-<td>~40% better structural query accuracy via CodeBERT + AST dependency-graph traversal; ~30% faster onboarding</td>
-<td>Python · Groq LLaMA 3.3 70B</td>
-</tr>
-
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/race-results-dark.svg" width="100%"/>
+</div>
 
 <br/>
 
@@ -157,56 +59,16 @@
 
 <br/>
 
-## 🏅 TROPHY CABINET — Achievements & Certifications
-
-- 🏎️ **Pupil** on Codeforces — Max Rating **1289**
-- 🔧 **Apache Airflow Contributor** — PR merged, adding the Japanese locale AI translation skill
-- 🏦 **Goldman Sachs** Operations Job Simulation — trade settlement & asset transfer risk analysis
-- 📈 **JP Morgan** Quantitative Research Job Simulation — default-probability modeling via dynamic programming
-- ☁️ **Oracle Cloud Infrastructure 2025** Certified — Data Science Professional
-
-<br/>
-
-## 📊 TELEMETRY — GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=HARDIK-WEB-OSS&theme=dark&hide_border=true&background=15151E&ring=E10600&fire=E10600&currStreakLabel=E10600" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARDIK-WEB-OSS&theme=react-dark&hide_border=true&bg_color=15151E&color=E10600&line=E10600&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏎️ ON TRACK — Commit Pit Stops
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/racetrack-dark.svg" width="100%"/>
-</div>
-
 <!--PITSTOP:START-->
-### 🏁 Live Pit Stop
-
-_This section auto-updates every 6 hours — first run will populate it._
+<div align="center"><sub>🏁 <i>Live telemetry updates every 6 hours — first run will populate it.</i></sub></div>
 <!--PITSTOP:END-->
 
 <br/>
 
-## 📡 PIT LANE — Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/hardik-agarwal-578238333/)
-[![X](https://img.shields.io/badge/X-Follow-15151E?style=for-the-badge&logo=x&logoColor=E10600)](https://x.com/HARDY1860678)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-15151E?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:agarwalhardik549@gmail.com)
+**[LinkedIn](https://www.linkedin.com/in/hardik-agarwal-578238333/)** · **[X](https://x.com/HARDY1860678)** · **[Codeforces](https://codeforces.com/profile/HARDIK-WEB-OSS)** · **[Email](mailto:agarwalhardik549@gmail.com)**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15151E,100:E10600&height=120&section=footer" width="100%"/>
-
-**"The chequered flag never lies — ship it, test it, ship again."** 🏁
+<sub>🏁 P1 or it didn't happen.</sub>
 
 </div>
