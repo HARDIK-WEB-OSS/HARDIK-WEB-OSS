@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:15151E&height=220&section=header&text=HARDIK%20AGARWAL&fontSize=55&fontColor=ffffff&fontFamily=Orbitron&animation=fadeIn&fontAlignY=38&desc=Engineering%20at%20Race%20Pace&descAlignY=58&descColor=E10600" width="100%"/>
+<img src="https://raw.githubusercontent.com/HARDIK-WEB-OSS/HARDIK-WEB-OSS/main/assets/header-banner-dark.svg" width="100%"/>
 
 <a href="https://github.com/HARDIK-WEB-OSS">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=26&duration=2800&pause=900&color=E10600&center=true&vCenter=true&width=650&lines=🏁+LIGHTS+OUT+AND+AWAY+WE+GO;Backend+Engineer+%7C+AI%2FML+%2B+Agentic+Systems;Building+Reliable+Systems+Under+Race-Day+Pressure;Every+Commit+is+a+Pit+Stop+Toward+P1" alt="Typing SVG" />
@@ -59,16 +58,18 @@
 
 <br/>
 
-<!--PITSTOP:START-->
-<div align="center"><sub>🏁 <i>Live telemetry updates every 6 hours — first run will populate it.</i></sub></div>
-<!--PITSTOP:END-->
-
-<br/>
+## 📡 PIT LANE — Connect
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/hardik-agarwal-578238333/)** · **[X](https://x.com/HARDY1860678)** · **[Codeforces](https://codeforces.com/profile/HARDIK-WEB-OSS)** · **[Email](mailto:agarwalhardik549@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/hardik-agarwal-578238333/)
+[![X](https://img.shields.io/badge/X-Follow-15151E?style=for-the-badge&logo=x&logoColor=E10600)](https://x.com/HARDY1860678)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-15151E?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:agarwalhardik549@gmail.com)
 
-<sub>🏁 P1 or it didn't happen.</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15151E,100:E10600&height=120&section=footer" width="100%"/>
+
+**"The chequered flag never lies — ship it, test it, ship again."** 🏁
 
 </div>
