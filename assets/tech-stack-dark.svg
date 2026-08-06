@@ -1,0 +1,27 @@
+<svg viewBox="0 0 920 300" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="920" height="300" rx="10" fill="#0a0a0d"/>
+<text x="30" y="40" font-size="20" font-weight="800" fill="#ffffff">TYRE STRATEGY — Tech Stack</text>
+<line x1="30" y1="56" x2="890" y2="56" stroke="#26262b" stroke-width="1.5"/>
+
+<!-- SOFT — AI/ML -->
+<circle cx="55" cy="100" r="18" fill="#E10600"/>
+<text x="55" y="106" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle">S</text>
+<text x="90" y="90" font-size="13" font-weight="800" fill="#E10600" letter-spacing="1">SOFT — AI/ML &amp; AGENTIC</text>
+<text x="90" y="112" font-size="13" fill="#c7c7cc">PyTorch · HuggingFace · XGBoost · NLP · RAG / Multi-Agent</text>
+
+<line x1="30" y1="134" x2="890" y2="134" stroke="#1c1c20" stroke-width="1"/>
+
+<!-- MEDIUM — Backend/DevOps -->
+<circle cx="55" cy="176" r="18" fill="#FFD400"/>
+<text x="55" y="182" font-size="12" font-weight="800" fill="#0a0a0d" text-anchor="middle">M</text>
+<text x="90" y="166" font-size="13" font-weight="800" fill="#FFD400" letter-spacing="1">MEDIUM — BACKEND, DEVOPS &amp; SYSTEMS</text>
+<text x="90" y="188" font-size="13" fill="#c7c7cc">FastAPI · Docker · Git · GitHub Actions · Airflow · Linux</text>
+
+<line x1="30" y1="210" x2="890" y2="210" stroke="#1c1c20" stroke-width="1"/>
+
+<!-- HARD — Languages -->
+<circle cx="55" cy="252" r="18" fill="#ffffff"/>
+<text x="55" y="258" font-size="12" font-weight="800" fill="#0a0a0d" text-anchor="middle">H</text>
+<text x="90" y="242" font-size="13" font-weight="800" fill="#ffffff" letter-spacing="1">HARD — LANGUAGES</text>
+<text x="90" y="264" font-size="13" fill="#c7c7cc">Python · Java · C++ · SQL</text>
+</svg>
